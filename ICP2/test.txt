@@ -1,0 +1,4 @@
+python is a language
+mongodb is a database
+angular is a frame work
+Is
